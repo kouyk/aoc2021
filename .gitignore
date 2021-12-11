@@ -1,0 +1,6 @@
+# ignore the temporaries
+/example.txt
+/input.txt
+
+.idea
+cmake-build-*
