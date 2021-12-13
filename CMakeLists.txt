@@ -3,5 +3,5 @@ project(aoc2021)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(part1 src/day12/part1.cpp)
-add_executable(part2 src/day12/part2.cpp)
+add_executable(part1 src/day13/part1.cpp)
+add_executable(part2 src/day13/part2.cpp)
